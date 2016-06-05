@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+.large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.large-header {$/;"	function	line:2
+.demo-1 .large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.demo-1 .large-header {$/;"	function	line:12
+.demo-2 .large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.demo-2 .large-header {$/;"	function	line:16
+.demo-3 .large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.demo-3 .large-header {$/;"	function	line:21
+.demo-4 .large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.demo-4 .large-header {$/;"	function	line:25
+.main-title	/home/girish/Documents/techno Odessey/css/component.css	/^.main-title {$/;"	function	line:29
+.main-title .thin	/home/girish/Documents/techno Odessey/css/component.css	/^.main-title .thin {$/;"	function	line:49
+.main-container	/home/girish/Documents/techno Odessey/css/component.css	/^.main-container {$/;"	function	line:53
+@media only screen and (max-width : 800px)	/home/girish/Documents/techno Odessey/css/component.css	/^@media only screen and (max-width : 800px) {$/;"	function	line:62
+.demo-1 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^	.demo-1 .main-title,$/;"	function	line:63
+.demo-3 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^	.demo-3 .main-title,$/;"	function	line:64
+.demo-4 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^	.demo-4 .main-title {$/;"	function	line:65
+.main-container	/home/girish/Documents/techno Odessey/css/component.css	/^	.main-container {$/;"	function	line:69
+.main-title	/home/girish/Documents/techno Odessey/css/component.css	/^	.main-title {$/;"	function	line:77
+@media only screen and (max-width : 480px)	/home/girish/Documents/techno Odessey/css/component.css	/^	@media only screen and (max-width : 480px) {$/;"	function	line:85
+.demo-1 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^		.demo-1 .main-title,$/;"	function	line:86
+.demo-3 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^		.demo-3 .main-title,$/;"	function	line:87
+.demo-4 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^		.demo-4 .main-title {$/;"	function	line:88
+.main-container	/home/girish/Documents/techno Odessey/css/component.css	/^		.main-container {$/;"	function	line:92

@@ -1,3 +1,3 @@
-# Radiance2k16
+# Technodyssey 2016
 
-<p>The Website of Radiance 2016.</p>
+<p>The Website of Technodyssey 2016.</p>

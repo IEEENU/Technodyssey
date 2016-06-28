@@ -1,0 +1,43 @@
+<html>
+<head>
+ <title>Startup Conclave</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Starup Conclave organized by IEEE Student Branch Nirma University."/>
+      <meta name="author" content="Tirth, Raj Kothari" />
+      <meta name="keywords" content="event, nirma, startupconclave, startupfair, startup" />
+      <!-- Bootstrap -->
+      <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <link href="css/main.css" rel="stylesheet" media="screen">
+      <script src="js/modernizr.custom.js"></script>
+
+<script>
+
+var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+    // Firefox 1.0+
+var isFirefox = typeof InstallTrigger !== 'undefined';
+    // At least Safari 3+: "[object HTMLElementConstructor]"
+var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+    // Internet Explorer 6-11
+var isIE = /*@cc_on!@*/false || !!document.documentMode;
+    // Edge 20+
+var isEdge = !isIE && !!window.StyleMedia;
+    // Chrome 1+
+var isChrome = !!window.chrome && !!window.chrome.webstore;
+    // Blink engine detection
+var isBlink = (isChrome || isOpera) && !!window.CSS;
+
+if(isFirefox)
+{
+document.location='index_moz.html';
+}
+else
+{
+document.location='index_rest.html';
+}
+
+
+</script>
+
+</head>
+<body>
+</html>

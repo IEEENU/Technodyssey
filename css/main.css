@@ -39,7 +39,6 @@ p.ref {
 /*the only button   */
 
 .ghost-button {
-	  
 	  display: inline-block;
 	  width: 15%;
 	  padding: 1%;
@@ -57,7 +56,7 @@ p.ref {
 		position: absolute;
 		/*top: 100px;
 		right:30%;*/
-		left: 26vw;
+		left: 40vw;
 		right: 30vw;
 		bottom: 15vh;
 		font-weight: bolder;
@@ -65,41 +64,6 @@ p.ref {
 
 .ghost-button:hover,
 .ghost-button:active {
-  background-color: #fff;
-  color: #000;
-	background-color: #fff; /* fallback */
-	  background-color: rgba(255, 255, 255, 0.4);
-	  border-color: #fff; /* fallback */
-	  border-color: rgba(255, 255, 255, 0.4);
-}
-
-.ghost-button1 {
-	  
-	  display: inline-block;
-	  width: 15%;
-	  padding: 1%;
-	  color: #fff;
-	  border: 2px solid #fff;
-		border-radius: 5px;
-		transition: background-color 0.2s ease-out,
-						color 0.2s ease-out;
-
-	  text-align: center;
-	  outline: none;
-	  text-decoration: none;
-      z-index: 10;
-
-		position: absolute;
-		/*top: 100px;
-		right:30%;*/
-		left: 55vw;
-		right: 30vw;
-		bottom: 15vh;
-		font-weight: bolder;
-}
-
-.ghost-button1:hover,
-.ghost-button1:active {
   background-color: #fff;
   color: #000;
 	background-color: #fff; /* fallback */
@@ -130,28 +94,4 @@ p.ref {
 		}
 
 
-	}
-	
-@media only screen and (max-width : 800px) {
-
-	.ghost-button1 {
-
-		left: 20vw;
-		right: 30vw;
-		bottom: 15vh;
-
-	}
-
-
-
-	}
-
-
-	@media only screen and (max-width : 480px) {
-		.ghost-button1 {
-
 		}
-
-
-	}	
-

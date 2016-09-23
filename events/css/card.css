@@ -103,6 +103,7 @@
 	line-height: 1;
 	margin: 5px 0 0;
 	color: #777778;
+	text-shadow: 1px 1px black;
 }
 
 .card__container--closed .card__subtitle {

@@ -39,8 +39,8 @@ p.ref {
 /*the only button   */
 
 .ghost-button {
-	  display: inline-block;
-	  width: 200px;
+	  display: table-cell;
+	  width: 21%;
 	  padding: 8px;
 	  color: #fff;
 	  border: 2px solid #fff;

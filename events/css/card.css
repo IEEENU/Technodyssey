@@ -91,7 +91,7 @@
 	line-height: 1;
 	margin: 5px 0 0 0;
 	color: #3b393d;
-	text-shadow: 3px 3px black;
+	text-shadow: 3px 3px rgba(0, 0, 0, 0.4);
 }
 
 .card__container--closed .card__title {
